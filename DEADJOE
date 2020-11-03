@@ -1,0 +1,35 @@
+
+*** These modified files were found in JOE when it aborted on Tue Nov  3 13:03:32 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/472762.cloudwaysapps.com/fqrvsggawy/public_html/LMS/.git/COMMIT_EDITMSG
+
+*** File '/home/472762.cloudwaysapps.com/fqrvsggawy/public_html/LMS/.git/COMMIT_EDITMSG'
+
+
+
+
+
+
+
+# Please
+
+ enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   app/Http/Controllers/HomeController.php
+#	modified:   app/Http/Controllers/VendorController.php
+#	modified:   resources/views/adminviews/vendor_requests_admin.blade.php
+#	modified:   resources/views/layouts/master.blade.php
+#	copied:     resources/views/vendorviews/vendor_order.blade.php -> resources/views/vendorviews/edit_vendor_order.blade.php
+#	modified:   resources/views/vendorviews/vendor_order.blade.php
+#	modified:   routes/webroutes/web.php
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
